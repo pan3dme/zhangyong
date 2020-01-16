@@ -1,0 +1,15 @@
+{
+    "packFile":true,
+    "packFileFilter":false,
+    "version":true,
+    "versionFilter":false,
+    "compressImage":false,
+    "compressImageFilter":false,
+    "compressJs":true,
+    "compressJsFilter":false,
+    "compressJson":true,
+    "compressJsonFilter":false,
+    "copyFilesFilter":false,
+    "clearReleaseDir":true,
+    "compile":true 
+}
